@@ -4,7 +4,9 @@ Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial
 
 Marque esse projeto com uma estrela 🌟
 
-[Live Demo](https://saulocorrea.github.io/semana-javascript-expert07/classes/class04/)
+[Live Demo - Hand Recognition](https://saulocorrea.github.io/semana-javascript-expert07/classes/class04/)
+
+[Live Demo - Eye Blink](https://saulocorrea.github.io/semana-javascript-expert07/classes/class04/pages/video-player)
 
 ## Preview
 <img width=100% src="https://github.com/saulocorrea/semana-javascript-expert07/raw/main/initial-template/assets/demo-template-lg.gif">
