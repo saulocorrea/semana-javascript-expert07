@@ -1,26 +1,16 @@
 # JSExpertMax Gesture Controller - Semana JS Expert 7.0
 
-Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
+Origem do material para estudo é o [trabalho de ErickWendel](https://github.com/ErickWendel/semana-javascript-expert07).
 
-Marque esse projeto com uma estrela 🌟
+Live Demo - [Hand Recognition](https://saulocorrea.github.io/semana-javascript-expert07/classes/class04/)
 
-[Live Demo - Hand Recognition](https://saulocorrea.github.io/semana-javascript-expert07/classes/class04/)
+Live Demo - [Eye Blink](https://saulocorrea.github.io/semana-javascript-expert07/classes/class04/pages/video-player)
 
-[Live Demo - Eye Blink](https://saulocorrea.github.io/semana-javascript-expert07/classes/class04/pages/video-player)
+### Links mostrados nos aulas:
+- Reuni todos os links em [referências](./referencias.md)
 
 ## Preview
-<img width=100% src="https://github.com/saulocorrea/semana-javascript-expert07/raw/main/initial-template/assets/demo-template-lg.gif">
-
-## Pre-reqs
-- Este projeto foi criado usando Node.js v19.6
-- O ideal é que você use o projeto em ambiente Unix (Linux). Se você estiver no Windows, é recomendado que use o [Windows Subsystem Linux](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) pois nas aulas são mostrados comandos Linux que possam não existir no Windows.
-
-## Importante
-- Todo dia às 18hrs estou subindo o código das aulas do dia corrente em [classes](./classes). Se você for iniciar o projeto, remova a pasta [classes](./classes) para iniciar do zero!
-
-## Running
-- Execute `npm ci` na pasta que contém o arquivo `package.json` para restaurar os pacotes
-- Execute `npm start` e em seguida vá para o seu navegador em [http://localhost:3000](http://localhost:3000) para visualizar a página acima
+TODO
 
 ## Checklist Features
 - Titles List
@@ -35,6 +25,17 @@ Marque esse projeto com uma estrela 🌟
   - [] - Deve ser possivel de reproduzir ou pausar videos com o piscar de olhos 😁
   - [] - Todo processamento de Machine Learning deve ser feito via Web worker
 
+## Pre-reqs
+- Este projeto foi criado usando Node.js v19.6
+- O ideal é que você use o projeto em ambiente Unix (Linux). Se você estiver no Windows, é recomendado que use o [Windows Subsystem Linux](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) pois nas aulas são mostrados comandos Linux que possam não existir no Windows.
+
+## Importante
+- Todo dia às 18hrs estou subindo o código das aulas do dia corrente em [classes](./classes). Se você for iniciar o projeto, remova a pasta [classes](./classes) para iniciar do zero!
+
+## Running
+- Execute `npm ci` na pasta que contém o arquivo `package.json` para restaurar os pacotes
+- Execute `npm start` e em seguida vá para o seu navegador em [http://localhost:3000](http://localhost:3000) para visualizar a página acima
+
 ### Desafios
 - [] - Aula 01 - Diferenciar piscada de olhos entre olho direito e esquerdo e atualizar log para mostrar qual olho que piscou.
 - [] - Aula 02 - Reconhecer gestos de mãos individuais e printar no log
@@ -45,6 +46,7 @@ Desafio plus: implementar testes unitários e alcançar 100% de coverage (avanç
 
 ### Links mostrados nos aulas:
 - Reuni todos os links em [referências](./referencias.md)
+
 ### Considerações
 - Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
 
