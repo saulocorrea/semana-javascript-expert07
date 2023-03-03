@@ -4,8 +4,10 @@ Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial
 
 Marque esse projeto com uma estrela 🌟
 
+[Live Demo](https://saulocorrea.github.io/semana-javascript-expert07/classes/class04/)
+
 ## Preview
-<img width=100% src="./initial-template/assets/demo-template-lg.gif">
+<img width=100% src="https://github.com/saulocorrea/semana-javascript-expert07/raw/main/initial-template/assets/demo-template-lg.gif">
 
 ## Pre-reqs
 - Este projeto foi criado usando Node.js v19.6
